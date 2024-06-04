@@ -1,0 +1,23 @@
+Indonesia 's Foreign Ministry spokesman Marty Natalegawa says Megawati 's meeting with Russian President Putin slated for April 21 will touch on the Iraq crisis." 
+
+
+{"text": "Indonesia", "entity_type": "GPE", "mention_type": "NAM", "entity_subtype": "", "start": 0, "end": 1}, 
+{"text": "Indonesia's Foreign Ministry spokesman", "entity_type": "PER", "mention_type": "NOM", "entity_subtype": "", "start": 0, "end": 6}, 
+{"text": "Indonesia's Foreign Ministry", "entity_type": "ORG", "mention_type": "NOM", "entity_subtype": "", "start": 0, "end": 5}, 
+{"text": "Marty Natalegawa", "entity_type": "PER", "mention_type": "NAM", "entity_subtype": "", "start": 6, "end": 8}, 
+{"text": "Megawati", "entity_type": "PER", "mention_type": "NAM", "entity_subtype": "", "start": 9, "end": 10}, 
+{"text": "Russian", "entity_type": "GPE", "mention_type": "NAM", "entity_subtype": "", "start": 14, "end": 15}, 
+{"text": "Russian President", "entity_type": "PER", "mention_type": "NOM", "entity_subtype": "", "start": 14, "end": 16}, 
+{"text": "Russian President Putin", "entity_type": "PER", "mention_type": "NAM", "entity_subtype": "", "start": 14, "end": 17}, 
+{"text": "Iraq", "entity_type": "GPE", "mention_type": "NAM", "entity_subtype": "", "start": 25, "end": 26}
+
+
+{
+    IL-2 gene expression and NF-kappa B activation through CD28 requires reactive oxygen production by 5-lipoxygenase", "."], 
+    "entity_mentions": [
+        {"start": 14, "end": 15, "entity_type": "protein", "text": "5-lipoxygenase"}, 
+        {"start": 4, "end": 6, "entity_type": "protein", "text": "NF-kappa B"}, 
+        {"start": 0, "end": 2, "entity_type": "DNA", "text": "IL-2 gene"}, 
+        {"start": 8, "end": 9, "entity_type": "protein", "text": "CD28"}
+    ]
+}
